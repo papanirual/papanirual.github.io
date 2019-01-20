@@ -15,7 +15,6 @@ h2
     padding: 0;
     list-style: none;
 }
- 
 .tabreiter,
 .tabreiter input[type="radio"]:checked + label
 {
